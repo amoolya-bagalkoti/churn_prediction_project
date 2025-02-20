@@ -1,8 +1,8 @@
 # churn_prediction_project
 
 Problem Setting
-	•	Objective: Identify customers likely to churn and develop strategies to retain them.
-	•	Challenge: Requires understanding large datasets and determining important features affecting churn.
+Objective: Identify customers likely to churn and develop strategies to retain them.
+Challenge: Requires understanding large datasets and determining important features affecting churn.
 
 Problem Definition
 	•	Industry: Telecom.
